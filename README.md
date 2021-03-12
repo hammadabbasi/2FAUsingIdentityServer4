@@ -6,6 +6,9 @@ Two Factor Authentication Demo using IdentityServer4 and Twilio in .NET 5
 3. Modify config.cs to add/update dummy users with phone 
 4. Run the Project. 
 
+for more details ![Check] (https://blog.containerize.com/2021/03/12/everything-you-need-to-know-about-two-factor-authentication-2fa/)
+
+
 Step-1: 
 ![Login](https://github.com/csehammad/2FAUsingIdentityServer4/blob/main/demo/Login.png?raw=true)
  
