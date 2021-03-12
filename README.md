@@ -18,5 +18,5 @@ Step-3:
 Step-4: 
 ![Login](https://github.com/csehammad/2FAUsingIdentityServer4/blob/main/demo/diagnostic.png?raw=true)
 
-
+For more details: Check: https://blog.containerize.com/2021/03/12/everything-you-need-to-know-about-two-factor-authentication-2fa/
  
